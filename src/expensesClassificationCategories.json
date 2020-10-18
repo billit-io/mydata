@@ -1,5 +1,5 @@
 {
-    "ExpensesClassificationCategories": [
+    "expensesClassificationCategories": [
         {
             "code": "category2_1",
             "descr": "Αγορές Εμπορευμάτων"

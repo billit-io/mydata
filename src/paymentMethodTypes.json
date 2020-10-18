@@ -1,5 +1,5 @@
 {
-    "PaymentMethodTypes": [
+    "paymentMethodTypes": [
         {
             "code": 1,
             "descr": "Επαγ. Λογαριασμός Πληρωμών Ημεδαπής"
