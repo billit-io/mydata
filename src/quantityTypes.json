@@ -1,0 +1,16 @@
+{
+    "quantityTypes": [
+        {
+            "code": 1,
+            "descr": "Τεμάχια"
+        },
+        {
+            "code": 2,
+            "descr": "Κιλά"
+        },
+        {
+            "code": 3,
+            "descr": "Λίτρα"
+        }
+    ]
+}
