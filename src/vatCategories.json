@@ -38,7 +38,7 @@
         {
             "code": 8,
             "descr": "Εγγραφές χωρίς ΦΠΑ",
-            "taxPercent": NULL
+            "taxPercent": "-"
         }
     ]
 }
