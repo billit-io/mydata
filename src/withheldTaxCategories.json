@@ -1,5 +1,5 @@
 {
-    "withholdingTaxCategories": [
+    "withheldTaxCategories": [
         {
             "code": 1,
             "descr": "Περιπτ. β’- Τόκοι - 15%",
